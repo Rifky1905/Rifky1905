@@ -21,14 +21,6 @@ Passionate about transforming ideas into functional, production-ready web and mo
 A modern, web-based Point of Sale system built for retail management. Features real-time sales recording, authentication, and automated OTP integration.
 - **Tech Stack:** Laravel, Tailwind CSS, Vercel
 
-#### 🛒 [GrosirKu - Wholesale POS Application](https://github.com/Rifky1905)
-Grocery management application designed to handle inventory, transactions, and store operations efficiently.
-- **Tech Stack:** Laravel, Tailwind CSS, MySQL
-
-#### 🏢 [SDN Singajaya 02 Asset Management](https://github.com/Rifky1905)
-A Web-based asset management system built to digitize school inventory and resource tracking.
-- **Tech Stack:** Laravel, MySQL
-
 #### 🏸 [PadelGo - Mobile Court Booking](https://github.com/Rifky1905/PadelGo)
 Mobile UI & System Design for a padel court booking platform featuring seamless user scheduling and UI flows.
 - **Tech Stack:** Flutter, Figma
